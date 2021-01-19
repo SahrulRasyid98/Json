@@ -1,0 +1,53 @@
+{
+  "santri": [
+    {
+      "id": "1",
+      "nama": "Sahrul Rasyid",
+      "umur": 21,
+      "kelamin": "Laki-laki",
+      "statusId": "3"
+    },
+    {
+      "id": "2",
+      "nama": "Mutiara Fitri",
+      "kelamin": "Perempuan",
+      "umur": 21,
+      "statusId": "3"
+    },
+    {
+      "id": "3",
+      "nama": "Bahar Harun",
+      "kelamin": "Laki-laki",
+      "umur": 15,
+      "statusId": "2"
+    },
+    {
+      "id": "4",
+      "nama": "Resti Ayu",
+      "kelamin": "Perempuan",
+      "umur": 17,
+      "statusId": "2"
+    },
+    {
+      "id": "5",
+      "nama": "Bahar Harun",
+      "kelamin": "Laki-laki",
+      "umur": 8,
+      "statusId": "1"
+    }
+  ],
+  "status": [
+    {
+      "id": "1",
+      "name": "Yatim"
+    },
+    {
+      "id": "2",
+      "name": "Piatu"
+    },
+    {
+      "id": "3",
+      "name": "Orang tua lengkap"
+    }
+  ]
+}
