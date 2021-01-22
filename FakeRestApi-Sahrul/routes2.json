@@ -1,6 +1,0 @@
-{
-    "/rest/*": "/$1",
-    "/:resource/:id/show": "/:resource/:id",
-    "/santri/:category": "/santri?category=:category",
-    "/kelamin\\?id=:id": "/santri/:id"
-  }
