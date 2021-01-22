@@ -1,6 +1,7 @@
 {
-    "/api/*": "/$1",
-    "/:resource/:id/show": "/:resource/:id",
-    "/santri/:category": "/santri?category=:category",
-  }
+  "/api/*": "/$1",
+  "/:resource/:id/show": "/:resource/:id",
+  "/status/:category": "/status?category=:category",
+  "/articles\\?id=:id": "/status/:id"
+}
 
